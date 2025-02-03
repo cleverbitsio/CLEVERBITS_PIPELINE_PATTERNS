@@ -1,10 +1,10 @@
 # Pipeline Documentation: Directory to Snowflake
 
 ## Pipeline Overview
-- **Pipeline Name**: `cleverbits_directory-snowflake`
-- **Version**: $GIT_TAG$
-- **Created**: $GIT_CREATION_DATE$
-- **Last Modified**: $GIT_LAST_MODIFIED$
+- **Pipeline Name**: `CLEVERBITS_FILE_TO_SNOWFLAKE_PATTERN`
+- **Version**: `$GIT_TAG$`
+- **Created**: `$GIT_CREATION_DATE$`
+- **Last Modified**: `$GIT_LAST_MODIFIED$`
 - **Created By**: [REMOVED]
 - **Business Owner**: [REMOVED]
 - **Technical Owner**: [REMOVED]
